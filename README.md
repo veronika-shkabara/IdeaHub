@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ideahub
+=======
+# stackly
+>>>>>>> abe9f73265f2a0907539e5131f591e3969849961
 
 A new Flutter project.
 

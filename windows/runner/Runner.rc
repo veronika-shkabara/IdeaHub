@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "ideahub" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "ideahub" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "ideahub.exe" "\0"
             VALUE "ProductName", "ideahub" "\0"
+=======
+            VALUE "FileDescription", "stackly" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "stackly" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "stackly.exe" "\0"
+            VALUE "ProductName", "stackly" "\0"
+>>>>>>> abe9f73265f2a0907539e5131f591e3969849961
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "ideahub",
     "short_name": "ideahub",
+=======
+    "name": "stackly",
+    "short_name": "stackly",
+>>>>>>> abe9f73265f2a0907539e5131f591e3969849961
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

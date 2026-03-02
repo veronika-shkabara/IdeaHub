@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="ideahub"
+=======
+        android:label="stackly"
+>>>>>>> abe9f73265f2a0907539e5131f591e3969849961
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
