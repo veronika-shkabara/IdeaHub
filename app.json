@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Stackly",
+    "slug": "stackly-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#030915"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#030915"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
